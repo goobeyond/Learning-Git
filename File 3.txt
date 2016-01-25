@@ -1,0 +1,2 @@
+new line in file 3
+
