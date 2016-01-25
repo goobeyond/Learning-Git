@@ -3,3 +3,5 @@ new line in file 3
 new changes in file 3
 
 changes to file 3 in branch v2
+
+changes in file 3 for master
