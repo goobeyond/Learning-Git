@@ -4,4 +4,8 @@ additional changes to file 1
 
 more stashed changes
 
+<<<<<<< .merge_file_a10492
 old file edited under v3
+=======
+changes back in master
+>>>>>>> .merge_file_a09148
