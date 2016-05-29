@@ -4,4 +4,8 @@ new changes in file 3
 
 changes to file 3 in branch v2
 
+<<<<<<< HEAD
+changes in here for v3
+=======
 changes in file 3 for master
+>>>>>>> 354472ca9a9d6854603da9ddda1885857da5f87f

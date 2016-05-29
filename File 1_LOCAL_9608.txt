@@ -1,0 +1,7 @@
+first text in file 1
+
+additional changes to file 1
+
+more stashed changes
+
+old file edited under v3
