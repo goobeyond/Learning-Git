@@ -1,0 +1,11 @@
+first text in file 1
+
+additional changes to file 1
+
+more stashed changes
+
+<<<<<<< HEAD
+old file edited under v3
+=======
+changes back in master
+>>>>>>> 354472ca9a9d6854603da9ddda1885857da5f87f
